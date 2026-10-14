@@ -1,0 +1,9 @@
+{
+  "name": "Leads Isapre",
+  "short_name": "Leads",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1f2e",
+  "theme_color": "#0f1f2e",
+  "icons": []
+}
